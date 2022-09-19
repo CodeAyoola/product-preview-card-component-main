@@ -14,7 +14,7 @@ body {
 
 .container {
   display: flex;
-  width: 500px;
+  width: 520px;
   height: 400px;
   border-radius: 7px;
   overflow: hidden;
@@ -30,6 +30,7 @@ img {
 
 .perfume {
   background-color: #ffffff;
+  padding: 20px;
 }
 
 h3 {
@@ -44,7 +45,7 @@ h1 {
   margin-top: 15px;
   font-weight: 700;
   color: rgb(27, 31, 37);
-  line-height: 80%;
+  line-height: 1;
 }
 
 p {
